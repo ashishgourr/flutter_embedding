@@ -1,0 +1,26 @@
+name: flutter_counter
+description: A flutter app with a counter that can be manipulated from JS.
+publish_to: "none"
+version: 1.0.0
+
+environment:
+  sdk: ^3.3.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  web: ^0.5.0
+  go_router: ^12.1.1
+  gluestack_ui: ^0.1.0-beta.2
+  js: ^0.7.1
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
