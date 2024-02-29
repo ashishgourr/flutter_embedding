@@ -114,7 +114,7 @@ const EmbeddedComponent = () => {
               <Select
                 labelId="variant-select-label"
                 value={variant}
-                label="TEXT"
+                label="Variant"
                 onChange={handleVariantChange}
               >
                 <MenuItem value="solid">solid</MenuItem>
