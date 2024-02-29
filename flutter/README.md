@@ -1,4 +1,4 @@
-# flutter_counter
+# flutter_embedding
 
 A new Flutter project.
 
